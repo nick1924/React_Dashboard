@@ -1,0 +1,71 @@
+
+body {
+	font-family: arial, sans-serif;
+}
+
+table {
+	background-color:  #ffffff;
+	
+    border-collapse: collapse;
+	margin-left: 20px;
+	border-left: 1px solid #000;
+    border-right: 1px solid #000;
+}
+
+th {
+	text-align: left;
+	padding: 10px 40px 10px;
+
+}
+
+td {
+	
+	padding: 10px 40px 10px;
+	text-align: left;
+	
+}
+
+tr {
+	border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+	
+}
+
+ tr:hover {background-color: #ddd;}
+
+ 
+
+ .time_format {
+	margin-top: 5px;
+	color: rgba(0,0,0,0.6);
+	font-size: 0.93em;
+ }
+
+ .email_format {
+	margin-top: 5px;
+	color: rgba(0,0,0,0.6);
+	font-size: 0.93em;
+ }
+
+ .chart {
+	margin-left: 50px;
+	background-color: #f2f2f2;
+	
+ }
+
+ .dashboard {
+	
+	background-color: #f2f2f2;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+	width: 1200px;
+    /* Add more styles as needed */
+ }
+
+ .dashboard_title {
+	font-weight: bold;
+	font-size: 26px;
+ }
+
