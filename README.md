@@ -6,6 +6,10 @@ This is a Dashboard developed with React.
 
 In the project directory, you can run:
 
+### `npm install`
+
+First you need to execute this command to install all the dependencies.
+
 ### `npm start`
 
 Runs the app in the development mode.\
